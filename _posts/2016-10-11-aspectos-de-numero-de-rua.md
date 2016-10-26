@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Aspectos de um número de rua
-date:       2016-03-24 15:32:14 -0300
+date:       2016-10-11 15:32:14 -0300
 categories: malabarismo rua
 ---
 
